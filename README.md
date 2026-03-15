@@ -35,12 +35,10 @@ pip install -U torch transformers datasets trl accelerate huggingface_hub gradio
 ## 📸 Demo Screenshots
 
 ### 1. Notebook Demo
-*(Placeholder: Screenshot of the notebook execution showing training progress and loss curves)*
-![Notebook Demo](https://via.placeholder.com/800x400?text=Notebook+Demo+Screenshot)
+![Notebook Demo](notebook_ui_sample.png)
 
 ### 2. Hugging Face Space
-*(Placeholder: Screenshot of the Gradio comparison app running on Hugging Face Spaces)*
-![Hugging Face Space](https://via.placeholder.com/800x400?text=Hugging+Face+Space+Screenshot)
+![Hugging Face Space](hugging_face_deployed_ui.png)
 
 ## 🔗 Links
 
